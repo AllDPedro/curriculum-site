@@ -346,6 +346,11 @@ p {
     text-decoration: underline;
 }
 
+.whatsapp-contact {
+    text-align: center;
+    margin-top: 2rem;
+}
+
 /* Footer */
 .footer {
     background: #121212;
