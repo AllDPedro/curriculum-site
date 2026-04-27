@@ -11,15 +11,7 @@ O site foi construído utilizando exclusivamente **HTML, CSS e JavaScript puro**
 - **JavaScript**: Funcionalidades interativas como navegação suave e animações de entrada
 
 ## Como Visualizar
-
-### Opção 1: Localmente
-1. Clone o repositório:
-   ```
-   git clone https://github.com/AllDPedro/curriculum-site.git
-   ```
-2. Abra o arquivo `index.html` em um navegador web.
-
-### Opção 2: GitHub Pages
+###  GitHub Pages
 O site está hospedado no GitHub Pages e pode ser acessado em: [https://alldpedro.github.io/curriculum-site/](https://alldpedro.github.io/curriculum-site/)
 
 ## Estrutura do Projeto
